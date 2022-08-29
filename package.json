@@ -1,0 +1,25 @@
+{
+  "name": "matchmakingservice-hungergames",
+  "version": "1.0.0",
+  "description": "Used for hunger games match making",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liveset1/matchmakingservice-hungergames.git"
+  },
+  "author": "Indelton",
+  "license": "MIT",
+  "engines": {
+    "node": "18.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Liveset1/matchmakingservice-hungergames/issues"
+  },
+  "homepage": "https://github.com/Liveset1/matchmakingservice-hungergames#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
